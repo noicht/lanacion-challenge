@@ -49,8 +49,8 @@ To run the API, follow these steps:
 - **GET /contacts/location**: Search a contact by location
 
 **IMPORTANT**:
-    - This API uses Swagger alternatively to document endpoints, you can get a more graphic view of the project if you navigate to `http://localhost:{PORT}/api-doc`
-    - You must be running a MongoDB client in order to make changes in your local database
+    - This API uses Swagger alternatively to document endpoints, you can get a more graphic view of the project if you navigate to `http://localhost:{PORT}/api-doc`.
+    - You must be running a MongoDB client in order to make changes in your local database.
 
 
 **ALTERNATIVE**: 
